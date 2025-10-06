@@ -1,0 +1,5 @@
+{
+  "name": "Modular AI Backend Interface",
+  "description": "A frontend application to demonstrate a scalable, multi-provider AI architecture by interacting with different AI models like Gemini.",
+  "requestFramePermissions": []
+}
